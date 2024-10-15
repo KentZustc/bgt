@@ -4,3 +4,4 @@
 <https://example.com/kent_zhang> a foaf:Person ;
    foaf:name "Kent Zhang" ;
    course:follows <https://pietercolpaert.be/teaching/bdt/#2024-2025> ;
+   foaf:knows <https://mariagaravatto.be/#me>
